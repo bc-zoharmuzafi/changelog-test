@@ -1,0 +1,22 @@
+{
+  "name": "changelog-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bc-zoharmuzafi/changelog-test.git"
+  },
+  "dependencies": {
+    "conventional-changelog-cli": "^1.3.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bc-zoharmuzafi/changelog-test/issues"
+  },
+  "homepage": "https://github.com/bc-zoharmuzafi/changelog-test#readme"
+}
